@@ -1,9 +1,9 @@
-import Navbar from "./Components/Navbar";
-import Hero from "./components/Hero";
-import Courses from "./components/Courses";
-import Features from "./components/Features";
-import Testimonials from "./components/Testimonials";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar.jsx";
+import Hero from "./components/Hero.jsx";
+import Courses from "./components/Courses.jsx";
+import Features from "./components/Features.jsx";
+import Testimonials from "./components/Testimonials.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
