@@ -1,5 +1,5 @@
 import Navbar from "./Components/Navbar.jsx";
-import Hero from "./components/Hero.jsx";
+import Hero from "./Components/Hero.jsx";
 import Courses from "./components/Courses.jsx";
 import Features from "./components/Features.jsx";
 import Testimonials from "./components/Testimonials.jsx";
